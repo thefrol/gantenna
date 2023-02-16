@@ -1,0 +1,7 @@
+_local_env/
+_*/
+.*.ipynb
+*models/
+
+*.egg-info/
+

@@ -1,0 +1,10 @@
+taming-transformers @ git+https://github.com/illeatmyhat/taming-transformers
+torch
+torchvision
+ruclip
+cython
+omegaconf
+pytorch_lightning
+einops
+gdown
+matplotlib
